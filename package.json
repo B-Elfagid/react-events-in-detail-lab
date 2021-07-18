@@ -3,8 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
+    "core-js": "^2.6.12",
+    "identity-obj-proxy": "^3.0.0",
     "jsdom": "^9.9.1",
     "mocha": "^5.2.0",
+    "raf": "^3.4.1",
     "react-scripts": "^1.0.7",
     "react-test-renderer": "^16.0.0",
     "webpack": "^3.6.0",

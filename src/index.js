@@ -1,5 +1,10 @@
+// import 'core-js/es/map';
+// import 'core-js/es/set';
+// import 'raf/polyfill';
+
 import React from 'react';
 import ReactDOM from 'react-dom';
+
 
 // These must be defined for code to work in browser
 import CoordinatesButton from './components/CoordinatesButton';
